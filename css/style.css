@@ -1513,6 +1513,7 @@ footer {
 
 .tools-cards__container p {
   max-width: 780px;
+  margin: 0 auto;
   font-family: "Lora", serif;
   font-size: 18px;
   line-height: 30px;
@@ -1689,6 +1690,7 @@ footer {
 
 .oil-cards__container p {
   max-width: 780px;
+  margin: 0 auto;
   font-family: "Lora", serif;
   font-size: 18px;
   line-height: 30px;
