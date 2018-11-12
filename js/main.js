@@ -8,7 +8,7 @@ $(document).ready(function(){
 $(window).on("load resize", function(){
   var width = $(document).width();
   
-  if (width > 768) {
+  if (width > 767) {
     $('.slick').slick('unslick');
   } else {
     $('.slick').not('.slick-initialized').slick({  
